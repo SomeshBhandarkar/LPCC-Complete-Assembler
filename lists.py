@@ -1,0 +1,4 @@
+symbolTable = []  
+literalTable = []  
+poolTable = []     
+temp = []          
